@@ -1,0 +1,5 @@
+'''Никак не добавляется по другому'''
+MS_SQL_USER=
+MS_SQL_SERVER=
+MS_SQL_DATABASE=
+MS_SQL_KEY=
